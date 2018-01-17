@@ -1,4 +1,4 @@
-# Start-Up-Project-
+# Start-Up-Project
 Prediction of Acquisition of Start-ups
 
 The data was extracted from Crunchbase on February 2014. The dataset provides information about startup companies, investment, and acquisitions via Crunchbase.
