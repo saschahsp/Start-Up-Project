@@ -8,3 +8,5 @@ Multiple supervised learning algorithms such as Logistic Regression, Random Fore
 With the results of this project existing startups can evaluate their performance in order to discover their probability to be acquired and emerging startups can use the outcomes as a guideline for how to structure their company or which features to emphasize while going down the path of an emerging startup.
 
 The data can be retrieved from: https://data.world/datanerd/startup-venture-funding 
+
+The project was written in Pyspark. 
